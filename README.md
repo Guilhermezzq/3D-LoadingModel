@@ -1,15 +1,20 @@
-# Aprendendo a Carregar Modelos 3D com React e Three.js
-Este repositório é uma jornada de aprendizado para aqueles que desejam dominar a arte de carregar e manipular modelos 3D em aplicativos React utilizando a biblioteca Three.js. Exploramos uma variedade de recursos fundamentais, proporcionando uma compreensão abrangente e prática das técnicas essenciais.
+# Learning to Load 3D Models with React and Three.js
+This repository is a learning journey for those who want to master the art of loading and manipulating 3D models in React applications using the Three.js library. We explore a variety of fundamental features, providing a comprehensive and practical understanding of essential techniques.
 
-# Principais recursos de aprendizagem:
--- useLoader e GLTFLoader: Aprenda a utilizar o useLoader e o GLTFLoader para carregar modelos 3D em seu aplicativo React, proporcionando uma base sólida para manipulação e renderização eficiente.
---Primitivos e Modelos Personalizados: Experimente a criação de objetos 3D personalizados usando primitivos e modelos personalizados, incluindo a utilização do objeto { model.scene } para incorporar modelos carregados.
--- Luzes Ambientes: Descubra como adicionar iluminação ambiente aos seus modelos, aumentando a qualidade visual da cena e criando atmosferas envolventes.
--- Carregamento Lento com Suspense: Implemente o carregamento lento em seu aplicativo, utilizando Suspense para gerenciar o carregamento assíncrono de modelos 3D, juntamente com estratégias de fallback para garantir uma experiência contínua para o usuário.
---GLTF para Visualização 3D: Utilize o formato GLTF para exibir modelos 3D de forma eficiente e otimizada, aproveitando recursos de pré-carregamento para melhorar a performance.
--- Integração do PMNDRS Market: Explore a integração do PMNDRS Market em seu fluxo de trabalho, instalando modelos 3D diretamente em seu projeto utilizando o comando npx gltfjsx.
--- Animações com useAnimation: Adicione movimento e vida aos seus modelos 3D, utilizando a funcionalidade useAnimation para criar animações dinâmicas e interativas.
+# Key learning features:
+GLTFLoader and useLoader: Learn to use useLoader and GLTFLoader to load 3D models in your React application, providing a solid foundation for efficient manipulation and rendering.
 
+Primitive and Custom Models: Experience creating custom 3D objects using primitives and custom models, including using the { model.scene } object to incorporate loaded models.
+
+Ambient Lights: Discover how to add ambient lighting to your models, increasing the visual quality of the scene and creating immersive atmospheres.
+
+Slow Loading with Suspense: Implement slow loading in your application using Suspense to manage asynchronous loading of 3D models, along with fallback strategies to ensure a seamless user experience.
+
+GLTF for 3D Visualization: Utilize the GLTF format to display 3D models efficiently and optimally, leveraging preloading features to improve performance.
+
+PMNDRS Market Integration: Explore integrating the PMNDRS Market into your workflow, installing 3D models directly into your project using the npx gltfjsx command.
+
+Animations with useAnimation: Add movement and life to your 3D models using the useAnimation feature to create dynamic and interactive animations.
 
 
 # Three.js - Creative  / Como Usar Este Repositório !
